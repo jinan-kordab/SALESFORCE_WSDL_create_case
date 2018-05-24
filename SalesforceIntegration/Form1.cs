@@ -23,11 +23,6 @@ namespace SalesforceIntegration
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
-
-			//developper acocunt
-			//user: josiec@isd.ca
-			//pass: chatterbox1
-
 			string userName = "YOUR EMAIL TO LOG IN TO SALESFORCE";
 			string password = "YOUR PASSWORD TO LOG IN TO SALESFORCE";
 			string securityToken = "YOUR REGENERATED SECURITY TOKEN";
