@@ -28,9 +28,9 @@ namespace SalesforceIntegration
 			//user: josiec@isd.ca
 			//pass: chatterbox1
 
-			string userName = "sendtestsms@gmail.com";
-			string password = "luntikpogodi001";
-			string securityToken = "9LceqWzqIlPWFfCEFuXt6AhW5";
+			string userName = "YOUR EMAIL TO LOG IN TO SALESFORCE";
+			string password = "YOUR PASSWORD TO LOG IN TO SALESFORCE";
+			string securityToken = "YOUR REGENERATED SECURITY TOKEN";
 
 			SforceService sfdcBinding = null;
 			LoginResult currentLoginResult = null;
